@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/job-listing-app/static/css/main.d3ac5eb9.chunk.css",
-    "main.js": "/job-listing-app/static/js/main.27024d21.chunk.js",
-    "main.js.map": "/job-listing-app/static/js/main.27024d21.chunk.js.map",
+    "main.js": "/job-listing-app/static/js/main.ff5974bc.chunk.js",
+    "main.js.map": "/job-listing-app/static/js/main.ff5974bc.chunk.js.map",
     "runtime-main.js": "/job-listing-app/static/js/runtime-main.f319069e.js",
     "runtime-main.js.map": "/job-listing-app/static/js/runtime-main.f319069e.js.map",
     "static/js/2.1598612c.chunk.js": "/job-listing-app/static/js/2.1598612c.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.f319069e.js",
     "static/js/2.1598612c.chunk.js",
     "static/css/main.d3ac5eb9.chunk.css",
-    "static/js/main.27024d21.chunk.js"
+    "static/js/main.ff5974bc.chunk.js"
   ]
 }
