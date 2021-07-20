@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/job-listing-app/static/css/main.da19bca0.chunk.css",
-    "main.js": "/job-listing-app/static/js/main.74184d7b.chunk.js",
-    "main.js.map": "/job-listing-app/static/js/main.74184d7b.chunk.js.map",
+    "main.css": "/job-listing-app/static/css/main.c29ada4c.chunk.css",
+    "main.js": "/job-listing-app/static/js/main.f688c634.chunk.js",
+    "main.js.map": "/job-listing-app/static/js/main.f688c634.chunk.js.map",
     "runtime-main.js": "/job-listing-app/static/js/runtime-main.f319069e.js",
     "runtime-main.js.map": "/job-listing-app/static/js/runtime-main.f319069e.js.map",
     "static/js/2.e1411c9c.chunk.js": "/job-listing-app/static/js/2.e1411c9c.chunk.js",
     "static/js/2.e1411c9c.chunk.js.map": "/job-listing-app/static/js/2.e1411c9c.chunk.js.map",
     "index.html": "/job-listing-app/index.html",
-    "static/css/main.da19bca0.chunk.css.map": "/job-listing-app/static/css/main.da19bca0.chunk.css.map",
+    "static/css/main.c29ada4c.chunk.css.map": "/job-listing-app/static/css/main.c29ada4c.chunk.css.map",
     "static/js/2.e1411c9c.chunk.js.LICENSE.txt": "/job-listing-app/static/js/2.e1411c9c.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.f319069e.js",
     "static/js/2.e1411c9c.chunk.js",
-    "static/css/main.da19bca0.chunk.css",
-    "static/js/main.74184d7b.chunk.js"
+    "static/css/main.c29ada4c.chunk.css",
+    "static/js/main.f688c634.chunk.js"
   ]
 }
